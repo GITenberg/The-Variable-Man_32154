@@ -1,0 +1,40 @@
+_repo: The-Variable-Man_32154
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ebel, Alex
+    gutenberg_agent_id: '35627'
+    url: http://www.gutenberg.org/2009/agents/35627
+covers:
+- cover_type: archival
+  image_path: 32154-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dick, Philip K.
+    alias: Dick, Philip Kindred
+    birthdate: 1928
+    deathdate: 1982
+    gutenberg_agent_id: '33399'
+    url: http://www.gutenberg.org/2009/agents/33399
+    wikipedia: http://en.wikipedia.org/wiki/Philip_K._Dick
+description: Time travel, interplanetary war, technology races between enemy nations
+  -- this early novella from science fiction mastermind Philip K. Dick has something
+  for every fan of the genre. In the story, an increasingly heated conflict between
+  two outer-space civilizations is impacted by an unlikely figure -- the time-traveling
+  'variable man' of the tale's title.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weapons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+title: The Variable Man
+url: http://www.gutenberg.org/ebooks/32154
